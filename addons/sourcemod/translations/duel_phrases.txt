@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"DuelCancelled"
+	{
+		"en"		"The duel has been cancelled!"
+	}
+	"Decoy1HP"
+	{
+		"en"		"The duel will be DECOY + 1HP"
+	}
+	"SpeedKnife"
+	{
+		"en"		"The duel will be SPEED + KNIFE"
+	}
+	"Decoy1HP"
+	{
+		"en"		"The duel will be KNIFE + LOW GRAVITY"
+	}
+	"AwNoscope"
+	{
+		"en"		"The duel will be AWP Noscope"
+	}
+}
