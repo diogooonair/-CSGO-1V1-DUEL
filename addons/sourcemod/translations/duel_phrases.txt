@@ -1,0 +1,57 @@
+"Phrases"
+{
+	"DuelCancelled"
+	{
+	    "#format"	"{1:s}"
+		"en"		"{1}The duel has been cancelled!"
+		"pt"		"{1}O duelo foi cancelado!"
+	}
+	"Decoy1HP"
+	{
+	    "#format"	"{1:s}"
+		"en"		"{1}The duel will be DECOY + 1HP"
+		"pt"		"{1}O duelo será DECOY + 1HP."
+	}
+	"SpeedKnife"
+	{
+	    "#format"	"{1:s}"
+		"en"		"{1}The duel will be SPEED + KNIFE"
+		"pt"		"{1}O duelo será SPEED + KNIFE."
+	}
+	"KnifeLowGravity"
+	{
+	    "#format"	"{1:s}"
+		"en"		"{1}The duel will be KNIFE + LOW GRAVITY"
+		"pt"		"{1}O duelo será KNIFE + LOW GRAVITY."
+	}
+	"AwNoscope"
+	{
+	    "#format"	"{1:s}"
+		"en"		"{1}The duel will be AWP Noscope"
+		"pt"		"{1}O duelo será AWP NoScope."
+	}
+	"Deagle1tap"
+	{
+	    "#format"	"{1:s}"
+		"en"		"{1}The duel will be Deagle 1TAP"
+		"pt"		"{1}O duelo será Deagle 1TAP."
+	}
+	"ZEUSDUEL"
+	{
+	    "#format"	"{1:s}"
+		"en"		"{1}The duel will be zeus"
+		"pt"		"{1}O duelo será Zeus."
+	}
+	"DisableDuelMusic"
+	{
+	    "#format"	"{1:s}"
+		"en"		"{1}You have disabled the duel music"
+		"pt"		"{1}Você desativou a música do duelo."
+	}
+	"EnableDuelMusic"
+	{
+	    "#format"	"{1:s}"
+		"en"		"{1}You have enabled the duel music"
+		"pt"		"{1}Você ativou a música do duelo."
+	}
+}
